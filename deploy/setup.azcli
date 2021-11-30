@@ -1,0 +1,2 @@
+az group create -n anbossar-adt -l westeurope
+az deploymyent group create -g anbossar-adt -f ./main.bicep --confirm-with-what-if
